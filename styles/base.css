@@ -1,0 +1,29 @@
+
+.main-header {
+    text-align: center;
+    background: linear-gradient(90deg, #2563eb, #1e40af);
+    color: white;
+    padding: 1.6rem;
+    border-radius: 14px;
+    margin-bottom: 1.5rem;
+}
+
+.result-card {
+    background: white;
+    padding: 1.2rem;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+}
+/* =========================
+   STREAMLIT LAYOUT FIXES
+   ========================= */
+
+/* Remove extra bottom space at page end */
+.block-container {
+    padding-bottom: 1rem !important;
+}
+
+/* Reduce space after last content block */
+div[data-testid="stVerticalBlock"]:last-of-type {
+    margin-bottom: 0.5rem !important;
+}

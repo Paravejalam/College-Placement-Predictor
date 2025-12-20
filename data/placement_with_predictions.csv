@@ -1,0 +1,1001 @@
+student_id,cgpa,internships,projects,certifications,communication_score,aptitude_score,technical_score,domain,skills,placed
+S1000,7.7,3,4,2,6,6,7,Web Development,"HTML, CSS, JavaScript",1
+S1001,7.19,1,4,1,7,10,8,Cyber Security,"Linux, Security Tools, Scripting",1
+S1002,7.82,0,2,2,8,5,8,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1003,8.52,0,1,0,7,4,6,Data Science,"Python, SQL, Power BI",0
+S1004,7.11,1,4,0,5,9,5,Web Development,"HTML, CSS, JavaScript",1
+S1005,7.11,0,3,2,8,6,9,Business Analytics,"Excel, Power BI, SQL",1
+S1006,8.56,0,3,2,6,6,6,AI & ML,"Python, TensorFlow, Keras",0
+S1007,7.91,2,3,1,6,6,8,Web Development,"React, JavaScript, Git",1
+S1008,6.92,0,2,4,7,6,8,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1009,7.73,2,2,3,7,6,7,Cyber Security,"Python, Networking, Nmap",1
+S1010,6.93,0,3,2,6,5,7,Data Science,"R, SQL, Excel",0
+S1011,6.93,3,3,0,5,7,6,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1012,7.49,3,5,2,7,6,8,Data Science,"Python, Tableau, Statistics",1
+S1013,5.77,0,3,3,8,8,3,AI & ML,"Python, NumPy, Scikit-learn",1
+S1014,5.92,0,2,2,7,7,8,Business Analytics,"SQL, Excel, Business Analysis",0
+S1015,6.85,1,2,2,8,6,7,Data Science,"Python, Tableau, Statistics",1
+S1016,6.49,0,5,2,6,7,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1017,7.55,1,5,0,5,6,8,Business Analytics,"Excel, Power BI, SQL",0
+S1018,6.57,2,2,0,7,5,5,Business Analytics,"Tableau, SQL, Excel",0
+S1019,6.17,1,5,2,6,8,4,AI & ML,"Python, NumPy, Scikit-learn",1
+S1020,8.47,2,3,1,6,7,8,Software Engineering,"C#, .NET, SQL",0
+S1021,7.12,3,3,2,7,6,9,Data Science,"Python, SQL, Power BI",1
+S1022,7.35,0,4,3,6,6,5,Data Science,"Python, SQL, Pandas",0
+S1023,6.16,3,2,2,5,5,6,Web Development,"HTML, CSS, JavaScript",0
+S1024,6.86,3,3,1,6,10,8,AI & ML,"Python, NumPy, Scikit-learn",1
+S1025,7.39,0,3,4,8,7,8,Cloud Computing,"AWS, Linux, Networking",1
+S1026,6.38,1,1,1,8,5,10,Software Engineering,"Python, OOP, Git",1
+S1027,7.6,1,2,1,8,7,9,Cyber Security,"Networking, Linux, Security+",1
+S1028,6.82,2,5,1,8,8,8,Web Development,"Django, HTML, CSS",1
+S1029,7.07,0,4,1,7,7,6,Software Engineering,"C#, .NET, SQL",0
+S1030,6.82,2,2,2,8,9,8,AI & ML,"Python, ML, Statistics",1
+S1031,8.78,0,5,1,7,5,9,Software Engineering,"C++, Data Structures, Algorithms",0
+S1032,7.29,3,3,1,7,4,7,Business Analytics,"Tableau, SQL, Excel",1
+S1033,6.45,0,4,0,6,7,7,Data Science,"Python, Tableau, Statistics",1
+S1034,7.96,3,5,2,7,7,7,Business Analytics,"SQL, Excel, Business Analysis",1
+S1035,6.32,0,3,3,8,2,6,Data Science,"R, SQL, Excel",0
+S1036,7.47,1,5,4,8,6,8,Web Development,"React, JavaScript, Git",0
+S1037,5.73,0,1,2,5,5,8,AI & ML,"Python, TensorFlow, Keras",0
+S1038,6.24,2,3,2,7,5,9,AI & ML,"Python, NumPy, Scikit-learn",1
+S1039,7.46,0,5,2,5,5,7,Software Engineering,"Java, OOP, Git",1
+S1040,7.89,0,2,1,7,8,8,Web Development,"HTML, CSS, JavaScript",0
+S1041,7.44,2,2,4,6,5,7,AI & ML,"Python, ML, Statistics",0
+S1042,7.21,1,1,2,10,5,8,Cloud Computing,"AWS, Python, DevOps",1
+S1043,7.06,3,3,1,7,5,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1044,6.12,1,3,0,8,9,8,Business Analytics,"Tableau, SQL, Excel",1
+S1045,6.72,1,2,2,10,7,8,Data Science,"Python, Tableau, Statistics",1
+S1046,6.93,0,1,4,6,3,6,Software Engineering,"Java, OOP, Git",0
+S1047,8.15,1,3,2,8,5,9,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1048,7.57,0,2,1,5,8,7,Data Science,"R, SQL, Excel",1
+S1049,5.89,0,2,2,8,9,7,Web Development,"HTML, CSS, JavaScript",0
+S1050,7.56,0,2,4,10,8,6,AI & ML,"Python, ML, Statistics",1
+S1051,6.99,3,2,1,6,6,8,Data Science,"Python, SQL, Pandas",1
+S1052,6.76,2,1,1,6,4,7,Cyber Security,"Python, Networking, Nmap",0
+S1053,7.79,1,2,2,7,8,8,Cyber Security,"Linux, Security Tools, Scripting",0
+S1054,8.12,1,3,1,10,6,8,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1055,8.05,1,4,2,8,7,8,Web Development,"React, JavaScript, Git",0
+S1056,6.63,3,5,0,6,7,10,Data Science,"Python, SQL, Pandas",1
+S1057,7.05,1,2,1,9,5,7,Software Engineering,"Python, OOP, Git",1
+S1058,7.57,3,2,2,5,7,6,Data Science,"Python, SQL, Power BI",1
+S1059,8.08,0,2,1,10,7,5,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1060,6.92,1,1,3,8,6,6,Business Analytics,"Tableau, SQL, Excel",0
+S1061,7.15,0,3,0,10,7,9,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1062,6.41,2,1,1,5,5,8,Web Development,"Node.js, MongoDB, Express",0
+S1063,6.34,0,3,1,7,6,5,Web Development,"HTML, CSS, JavaScript",0
+S1064,7.95,0,3,2,7,7,10,Software Engineering,"C++, Data Structures, Algorithms",0
+S1065,8.38,2,4,4,5,4,8,Web Development,"Django, HTML, CSS",1
+S1066,7.24,1,2,2,5,7,8,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1067,8.1,0,2,2,8,8,10,Cloud Computing,"AWS, Linux, Networking",0
+S1068,7.59,0,2,2,8,6,9,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1069,6.78,0,4,0,9,7,8,Web Development,"Django, HTML, CSS",0
+S1070,7.59,1,3,2,6,8,8,Web Development,"Node.js, MongoDB, Express",1
+S1071,8.53,0,1,2,7,6,8,Cloud Computing,"AWS, Python, DevOps",1
+S1072,7.27,0,4,3,5,6,7,Web Development,"Node.js, MongoDB, Express",0
+S1073,8.55,0,4,1,9,5,8,Web Development,"HTML, CSS, JavaScript",0
+S1074,5.2,1,1,4,7,7,8,Cyber Security,"Linux, Security Tools, Scripting",0
+S1075,7.96,1,2,1,8,6,7,Data Science,"Python, SQL, Power BI",0
+S1076,7.37,2,3,2,8,7,6,AI & ML,"Python, TensorFlow, Keras",0
+S1077,7.06,3,1,1,9,8,7,Web Development,"Node.js, MongoDB, Express",1
+S1078,7.37,3,3,1,6,8,6,AI & ML,"Python, TensorFlow, Keras",0
+S1079,5.71,0,2,3,8,6,7,Business Analytics,"SQL, Excel, Business Analysis",0
+S1080,7.12,3,2,2,7,4,5,AI & ML,"Python, NumPy, Scikit-learn",0
+S1081,7.59,1,5,4,10,8,8,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1082,8.48,0,5,2,6,7,5,Web Development,"Django, HTML, CSS",0
+S1083,6.89,2,4,3,9,6,7,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1084,6.65,1,2,2,8,8,8,AI & ML,"Python, NumPy, Scikit-learn",0
+S1085,6.9,3,3,3,7,5,8,Web Development,"Node.js, MongoDB, Express",1
+S1086,8.03,0,2,1,7,8,8,Software Engineering,"C++, Data Structures, Algorithms",1
+S1087,7.56,1,3,4,9,6,8,Business Analytics,"Tableau, SQL, Excel",1
+S1088,6.88,1,5,2,7,6,6,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1089,7.71,1,3,2,5,6,8,Software Engineering,"Java, OOP, Git",0
+S1090,7.38,1,3,0,9,6,6,Software Engineering,"Java, OOP, Git",1
+S1091,8.07,1,3,2,9,7,9,AI & ML,"Python, TensorFlow, Keras",0
+S1092,6.74,1,2,0,8,7,8,Software Engineering,"Java, OOP, Git",1
+S1093,7.04,2,4,3,5,6,9,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1094,6.99,1,2,1,6,7,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1095,6.13,1,2,2,4,7,6,AI & ML,"Python, ML, Statistics",0
+S1096,7.54,0,3,3,8,6,6,Web Development,"React, JavaScript, Git",0
+S1097,7.51,0,4,0,5,6,6,Data Science,"Python, SQL, Power BI",0
+S1098,7.3,0,3,1,4,8,5,Web Development,"React, JavaScript, Git",0
+S1099,7.11,0,4,1,9,8,8,Web Development,"HTML, CSS, JavaScript",0
+S1100,6.17,1,5,1,8,7,9,Web Development,"Node.js, MongoDB, Express",0
+S1101,6.96,0,3,2,7,8,8,Web Development,"Django, HTML, CSS",0
+S1102,7.03,1,2,2,7,4,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1103,6.66,0,4,2,3,6,10,Data Science,"Python, Tableau, Statistics",1
+S1104,7.17,1,4,3,8,5,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1105,7.62,0,3,4,6,10,7,Software Engineering,"C++, Data Structures, Algorithms",0
+S1106,8.81,3,3,4,7,8,7,Business Analytics,"SQL, Excel, Business Analysis",1
+S1107,7.44,0,1,1,3,7,7,Web Development,"Node.js, MongoDB, Express",0
+S1108,7.51,1,3,2,8,8,8,Business Analytics,"Excel, Power BI, SQL",0
+S1109,7.24,2,3,3,6,8,6,Cyber Security,"Networking, Linux, Security+",0
+S1110,5.76,3,1,1,5,8,6,AI & ML,"Python, ML, Statistics",0
+S1111,7.28,0,5,0,6,8,8,AI & ML,"Python, TensorFlow, Keras",1
+S1112,7.35,0,5,3,6,6,7,Cloud Computing,"AWS, Python, DevOps",0
+S1113,9.27,0,3,4,9,6,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1114,7.15,0,3,4,6,5,7,Cyber Security,"Networking, Linux, Security+",1
+S1115,7.54,2,4,1,9,8,7,Web Development,"Django, HTML, CSS",1
+S1116,7.27,1,2,1,7,7,6,Business Analytics,"Excel, Power BI, SQL",0
+S1117,6.37,1,3,0,8,6,6,Business Analytics,"Excel, Power BI, SQL",0
+S1118,8.21,0,2,1,7,6,6,Data Science,"R, SQL, Excel",0
+S1119,7.9,1,5,1,9,9,8,Software Engineering,"Java, OOP, Git",1
+S1120,7.93,0,3,0,5,8,7,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1121,6.57,1,3,1,7,9,8,Software Engineering,"C++, Data Structures, Algorithms",1
+S1122,8.42,3,4,2,6,8,9,Data Science,"R, SQL, Excel",1
+S1123,6.18,0,2,3,9,7,7,Cloud Computing,"AWS, Python, DevOps",0
+S1124,7.77,0,4,1,9,7,8,Business Analytics,"Power BI, DAX, Excel",1
+S1125,9.05,0,2,1,7,5,7,AI & ML,"Python, NumPy, Scikit-learn",1
+S1126,6.51,1,2,2,5,5,7,Software Engineering,"Java, OOP, Git",0
+S1127,6.85,2,5,1,8,8,9,Cloud Computing,"AWS, Python, DevOps",1
+S1128,7.38,3,3,4,5,5,8,Data Science,"Python, Tableau, Statistics",1
+S1129,6.9,0,3,4,9,7,7,Software Engineering,"C++, Data Structures, Algorithms",1
+S1130,6.06,1,2,4,6,8,8,Business Analytics,"SQL, Excel, Business Analysis",1
+S1131,7.35,2,1,2,7,6,6,Web Development,"Django, HTML, CSS",0
+S1132,6.45,2,5,4,6,10,8,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1133,7.68,0,4,2,6,5,5,Data Science,"Python, SQL, Pandas",0
+S1134,6.56,3,2,1,8,8,6,Software Engineering,"C#, .NET, SQL",0
+S1135,8.54,1,4,4,7,7,8,Business Analytics,"Tableau, SQL, Excel",1
+S1136,6.67,1,3,0,7,8,4,Web Development,"Django, HTML, CSS",0
+S1137,7.04,2,3,2,5,5,10,Web Development,"HTML, CSS, JavaScript",0
+S1138,7.95,1,4,2,8,10,8,Data Science,"Python, Tableau, Statistics",1
+S1139,6.32,0,2,0,8,7,5,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1140,7.48,2,4,0,7,8,10,Business Analytics,"Excel, Power BI, SQL",0
+S1141,8.35,2,3,0,9,9,10,Business Analytics,"SQL, Excel, Business Analysis",1
+S1142,6.01,1,5,0,7,6,7,AI & ML,"Python, ML, Statistics",0
+S1143,7.45,1,3,1,8,8,6,Data Science,"Python, SQL, Pandas",0
+S1144,7.51,3,2,4,5,6,9,Web Development,"Django, HTML, CSS",0
+S1145,7.93,2,3,3,8,9,7,Web Development,"Node.js, MongoDB, Express",1
+S1146,6.31,3,3,1,7,6,7,Data Science,"Python, SQL, Power BI",1
+S1147,6.24,0,4,1,7,7,9,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1148,7.72,1,5,2,7,7,7,AI & ML,"Python, TensorFlow, Keras",0
+S1149,7.54,0,1,2,7,8,7,Software Engineering,"C#, .NET, SQL",0
+S1150,7.5,3,5,4,8,10,6,Data Science,"R, SQL, Excel",1
+S1151,7.58,2,1,3,6,6,6,AI & ML,"Python, TensorFlow, Keras",0
+S1152,6.76,0,2,2,8,8,7,Business Analytics,"Excel, Power BI, SQL",1
+S1153,7.49,0,5,4,9,10,6,AI & ML,"Python, ML, Statistics",1
+S1154,7.53,0,3,4,5,7,6,Cloud Computing,"AWS, Python, DevOps",1
+S1155,6.73,0,1,1,6,6,7,Web Development,"HTML, CSS, JavaScript",0
+S1156,8.79,1,2,3,6,4,5,Software Engineering,"C++, Data Structures, Algorithms",0
+S1157,7.68,0,3,2,5,9,6,Data Science,"R, SQL, Excel",1
+S1158,6.35,0,2,3,6,6,10,Web Development,"Node.js, MongoDB, Express",0
+S1159,7.83,1,5,1,9,5,7,Cloud Computing,"AWS, Python, DevOps",1
+S1160,6.52,1,2,1,9,5,7,Cloud Computing,"AWS, Linux, Networking",0
+S1161,7.93,3,1,3,7,5,7,Web Development,"Node.js, MongoDB, Express",1
+S1162,8.23,0,3,1,7,8,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1163,6.64,1,4,1,8,8,8,AI & ML,"Python, NumPy, Scikit-learn",1
+S1164,8.07,1,3,3,3,8,8,Data Science,"R, SQL, Excel",0
+S1165,7.63,1,1,2,5,7,7,Data Science,"Python, SQL, Pandas",0
+S1166,7.96,3,1,2,4,5,7,Data Science,"Python, SQL, Pandas",0
+S1167,8.82,3,4,1,5,6,9,Web Development,"HTML, CSS, JavaScript",1
+S1168,7.1,3,3,0,6,5,5,Business Analytics,"SQL, Excel, Business Analysis",0
+S1169,6.7,0,3,1,9,8,7,Cyber Security,"Networking, Linux, Security+",0
+S1170,6.59,0,5,3,3,5,7,Software Engineering,"Java, OOP, Git",1
+S1171,6.65,0,2,0,6,6,6,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1172,7.24,2,5,3,8,7,7,Web Development,"React, JavaScript, Git",1
+S1173,7.57,2,4,4,8,4,6,Business Analytics,"SQL, Excel, Business Analysis",0
+S1174,7.52,0,5,1,9,7,8,Software Engineering,"Java, OOP, Git",0
+S1175,7.96,1,4,1,7,7,5,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1176,7.31,0,3,1,8,8,9,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1177,8.46,1,2,1,4,6,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1178,7.09,2,5,0,6,5,7,AI & ML,"Python, NumPy, Scikit-learn",0
+S1179,9.48,0,1,4,4,6,6,Data Science,"Python, SQL, Power BI",1
+S1180,7.8,0,2,3,8,5,9,Software Engineering,"C#, .NET, SQL",1
+S1181,6.61,1,3,4,8,7,6,Web Development,"Node.js, MongoDB, Express",0
+S1182,6.44,1,1,1,7,4,6,Software Engineering,"Python, OOP, Git",0
+S1183,7.69,0,3,0,6,6,9,AI & ML,"Python, NumPy, Scikit-learn",1
+S1184,7.12,1,3,2,6,6,6,Data Science,"Python, SQL, Pandas",0
+S1185,7.87,0,2,0,7,8,7,Software Engineering,"Python, OOP, Git",0
+S1186,7.68,0,2,2,6,6,8,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1187,7.24,2,2,0,5,4,7,Web Development,"HTML, CSS, JavaScript",1
+S1188,6.62,1,3,4,6,7,9,Cyber Security,"Networking, Linux, Security+",0
+S1189,6.09,1,2,2,6,7,6,Business Analytics,"Power BI, DAX, Excel",0
+S1190,6.94,0,1,2,6,6,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1191,7.99,0,4,2,5,6,7,Web Development,"HTML, CSS, JavaScript",1
+S1192,7.47,1,4,2,8,6,8,Data Science,"Python, SQL, Power BI",1
+S1193,6.3,3,4,0,9,7,9,Cloud Computing,"AWS, Linux, Networking",1
+S1194,7.44,1,3,4,7,6,7,Business Analytics,"Tableau, SQL, Excel",0
+S1195,7.61,1,4,0,7,6,7,Web Development,"Node.js, MongoDB, Express",0
+S1196,6.59,1,1,2,8,8,5,Web Development,"React, JavaScript, Git",0
+S1197,7.42,0,2,1,8,5,7,Web Development,"Django, HTML, CSS",1
+S1198,7.35,0,3,1,6,7,6,Web Development,"Node.js, MongoDB, Express",1
+S1199,6.39,1,2,4,10,4,8,Cloud Computing,"AWS, Linux, Networking",0
+S1200,7.59,1,3,4,6,7,7,Data Science,"Python, SQL, Pandas",0
+S1201,7.75,3,2,0,8,5,7,Business Analytics,"Power BI, DAX, Excel",1
+S1202,8.17,3,2,1,8,8,5,AI & ML,"Python, ML, Statistics",1
+S1203,8.14,2,2,3,4,5,5,Software Engineering,"C#, .NET, SQL",0
+S1204,6.2,1,4,3,6,7,10,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1205,6.55,0,2,2,7,9,7,Business Analytics,"Excel, Power BI, SQL",1
+S1206,7.71,1,2,3,7,5,8,Software Engineering,"C#, .NET, SQL",0
+S1207,7.71,1,3,4,7,6,6,Software Engineering,"Java, OOP, Git",1
+S1208,7.71,0,3,3,8,5,8,Cyber Security,"Python, Networking, Nmap",0
+S1209,10.0,2,3,1,7,6,8,Business Analytics,"Power BI, DAX, Excel",0
+S1210,7.76,0,3,1,8,8,6,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1211,8.21,0,1,1,7,6,6,Data Science,"Python, SQL, Pandas",0
+S1212,8.06,3,3,3,5,5,6,Cyber Security,"Python, Networking, Nmap",1
+S1213,7.82,1,2,2,7,4,7,Data Science,"Python, SQL, Power BI",1
+S1214,7.05,1,3,2,8,9,7,Cloud Computing,"AWS, Linux, Networking",1
+S1215,7.91,0,3,2,9,9,7,Software Engineering,"Java, OOP, Git",1
+S1216,6.68,1,4,1,8,8,9,Data Science,"R, SQL, Excel",1
+S1217,7.11,0,2,2,9,6,6,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1218,6.91,3,3,2,8,8,6,Cloud Computing,"AWS, Python, DevOps",1
+S1219,7.37,0,4,1,8,8,7,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1220,9.15,2,5,1,8,6,5,Cyber Security,"Networking, Linux, Security+",1
+S1221,5.81,1,5,3,7,7,8,AI & ML,"Python, NumPy, Scikit-learn",1
+S1222,7.85,1,2,1,8,9,7,Software Engineering,"C++, Data Structures, Algorithms",0
+S1223,6.01,0,2,0,6,5,7,Cyber Security,"Networking, Linux, Security+",0
+S1224,6.92,1,1,4,8,8,7,Software Engineering,"C#, .NET, SQL",0
+S1225,8.17,0,1,1,8,6,8,AI & ML,"Python, ML, Statistics",1
+S1226,7.35,0,3,1,9,5,8,Business Analytics,"Power BI, DAX, Excel",0
+S1227,6.44,0,4,2,8,5,7,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1228,6.73,2,1,3,9,6,8,Software Engineering,"Python, OOP, Git",0
+S1229,7.84,1,4,2,7,5,8,Cyber Security,"Networking, Linux, Security+",0
+S1230,6.72,0,4,1,6,9,8,Cyber Security,"Networking, Linux, Security+",1
+S1231,7.47,1,3,1,7,7,7,Software Engineering,"Java, OOP, Git",1
+S1232,7.34,1,3,1,7,8,8,Cyber Security,"Networking, Linux, Security+",1
+S1233,6.78,0,3,2,4,8,6,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1234,9.02,0,1,4,9,7,7,Business Analytics,"Power BI, DAX, Excel",1
+S1235,7.81,0,5,4,7,7,7,Cloud Computing,"AWS, Python, DevOps",1
+S1236,5.68,2,3,2,6,6,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1237,7.45,0,1,1,3,6,5,Software Engineering,"Java, OOP, Git",0
+S1238,6.77,0,3,4,7,5,6,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1239,7.98,0,3,1,7,8,7,Cyber Security,"Python, Networking, Nmap",0
+S1240,6.67,1,4,4,6,4,8,Cyber Security,"Networking, Linux, Security+",1
+S1241,7.21,0,3,3,6,5,8,Cyber Security,"Networking, Linux, Security+",1
+S1242,7.7,3,2,3,7,10,8,Cyber Security,"Linux, Security Tools, Scripting",1
+S1243,7.99,3,4,4,6,7,9,Software Engineering,"C++, Data Structures, Algorithms",1
+S1244,6.34,3,4,1,8,7,8,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1245,7.03,0,3,3,6,8,7,AI & ML,"Python, TensorFlow, Keras",0
+S1246,6.92,0,5,2,7,5,6,Data Science,"Python, SQL, Pandas",1
+S1247,6.78,3,2,4,9,5,10,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1248,8.71,1,5,2,7,6,5,Cyber Security,"Networking, Linux, Security+",1
+S1249,7.62,2,3,4,8,6,7,Data Science,"R, SQL, Excel",0
+S1250,6.29,1,4,0,7,7,8,AI & ML,"Python, ML, Statistics",1
+S1251,8.03,3,2,0,7,7,8,Web Development,"React, JavaScript, Git",0
+S1252,9.0,2,4,0,7,9,6,Cloud Computing,"AWS, Python, DevOps",1
+S1253,8.13,1,5,3,6,8,7,Web Development,"React, JavaScript, Git",1
+S1254,6.08,1,2,2,7,5,6,AI & ML,"Python, NumPy, Scikit-learn",0
+S1255,6.91,0,1,2,7,6,5,Business Analytics,"SQL, Excel, Business Analysis",0
+S1256,8.31,0,3,2,9,6,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1257,6.73,1,4,1,8,5,6,Web Development,"Node.js, MongoDB, Express",1
+S1258,7.66,3,3,2,5,5,9,Software Engineering,"Java, OOP, Git",1
+S1259,7.92,0,1,1,5,9,8,Software Engineering,"C#, .NET, SQL",0
+S1260,6.56,1,3,0,7,7,7,Data Science,"Python, SQL, Pandas",0
+S1261,7.25,0,3,0,6,6,7,AI & ML,"Python, NumPy, Scikit-learn",1
+S1262,5.0,3,2,3,7,7,7,AI & ML,"Python, TensorFlow, Keras",1
+S1263,6.48,1,3,4,8,8,7,Web Development,"HTML, CSS, JavaScript",0
+S1264,7.1,2,2,0,7,8,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1265,6.3,1,2,4,7,6,10,AI & ML,"Python, NumPy, Scikit-learn",0
+S1266,8.61,3,2,4,9,7,6,Web Development,"Django, HTML, CSS",0
+S1267,6.16,2,1,3,5,6,7,Web Development,"Node.js, MongoDB, Express",1
+S1268,6.95,3,3,1,7,7,8,Cloud Computing,"AWS, Linux, Networking",0
+S1269,7.4,0,3,1,6,7,7,Cloud Computing,"AWS, Python, DevOps",0
+S1270,8.45,0,2,2,9,7,9,AI & ML,"Python, ML, Statistics",1
+S1271,6.15,3,1,3,4,7,8,Web Development,"Django, HTML, CSS",0
+S1272,8.23,3,2,2,4,8,6,Data Science,"R, SQL, Excel",1
+S1273,7.31,0,5,2,7,6,7,Data Science,"Python, SQL, Power BI",0
+S1274,6.51,0,4,1,9,7,6,Cloud Computing,"AWS, Linux, Networking",0
+S1275,7.67,0,5,3,8,6,6,AI & ML,"Python, NumPy, Scikit-learn",1
+S1276,7.46,2,5,1,6,10,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1277,6.82,0,2,2,9,6,9,Business Analytics,"Tableau, SQL, Excel",1
+S1278,7.36,0,2,3,5,6,8,Data Science,"Python, Tableau, Statistics",0
+S1279,6.99,0,3,2,9,8,7,Data Science,"Python, SQL, Power BI",0
+S1280,7.39,0,5,2,5,6,8,Cloud Computing,"AWS, Python, DevOps",1
+S1281,7.83,3,5,4,6,8,8,Cloud Computing,"AWS, Python, DevOps",1
+S1282,8.57,0,3,3,8,7,6,AI & ML,"Python, NumPy, Scikit-learn",0
+S1283,6.31,1,2,3,5,6,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1284,9.01,0,2,4,9,6,7,Software Engineering,"Java, OOP, Git",1
+S1285,5.74,0,3,2,6,6,8,Business Analytics,"Excel, Power BI, SQL",1
+S1286,7.18,2,4,2,7,6,6,Web Development,"HTML, CSS, JavaScript",1
+S1287,7.77,1,1,1,9,7,6,Data Science,"Python, Tableau, Statistics",0
+S1288,7.52,0,3,4,6,6,7,Software Engineering,"Java, OOP, Git",0
+S1289,6.8,0,2,1,9,7,6,Cyber Security,"Linux, Security Tools, Scripting",0
+S1290,7.13,0,3,2,9,5,7,Software Engineering,"Python, OOP, Git",1
+S1291,6.91,3,2,4,6,8,7,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1292,6.83,2,3,4,9,8,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1293,7.98,1,2,3,4,6,8,Cyber Security,"Python, Networking, Nmap",1
+S1294,7.59,1,5,1,8,6,9,Cloud Computing,"AWS, Linux, Networking",1
+S1295,6.75,0,2,1,5,7,8,Software Engineering,"Java, OOP, Git",0
+S1296,8.02,0,3,1,8,9,5,AI & ML,"Python, NumPy, Scikit-learn",1
+S1297,7.55,2,1,4,8,9,6,Data Science,"Python, SQL, Pandas",1
+S1298,7.95,1,2,1,10,5,7,Business Analytics,"Tableau, SQL, Excel",1
+S1299,7.8,0,2,0,9,8,5,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1300,6.64,0,1,2,7,7,6,Software Engineering,"C++, Data Structures, Algorithms",0
+S1301,6.85,2,3,0,5,7,7,Data Science,"Python, SQL, Power BI",0
+S1302,7.9,3,3,4,8,8,7,Software Engineering,"Java, OOP, Git",0
+S1303,7.79,0,1,0,7,6,7,Cloud Computing,"AWS, Python, DevOps",0
+S1304,7.28,0,3,4,9,8,5,Data Science,"R, SQL, Excel",0
+S1305,7.39,0,1,0,4,9,7,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1306,8.32,0,1,1,10,9,7,Software Engineering,"C#, .NET, SQL",0
+S1307,6.83,1,2,2,8,4,7,Cyber Security,"Python, Networking, Nmap",0
+S1308,7.74,0,3,1,6,6,8,Business Analytics,"Excel, Power BI, SQL",1
+S1309,7.14,1,3,1,8,4,8,Web Development,"HTML, CSS, JavaScript",1
+S1310,7.13,1,5,3,9,6,7,Business Analytics,"SQL, Excel, Business Analysis",1
+S1311,8.18,3,2,3,7,3,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1312,7.96,0,1,0,4,7,6,Cloud Computing,"AWS, Python, DevOps",1
+S1313,7.95,0,5,4,7,7,7,Business Analytics,"Excel, Power BI, SQL",1
+S1314,8.34,1,4,1,9,6,6,Cloud Computing,"AWS, Linux, Networking",0
+S1315,7.32,0,5,0,8,6,9,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1316,7.85,1,1,3,7,7,7,Data Science,"Python, Tableau, Statistics",1
+S1317,7.05,2,1,2,9,5,9,AI & ML,"Python, ML, Statistics",1
+S1318,7.56,2,3,2,8,5,8,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1319,7.2,1,3,0,8,5,6,Business Analytics,"Power BI, DAX, Excel",0
+S1320,7.38,2,2,2,6,7,8,Business Analytics,"Tableau, SQL, Excel",0
+S1321,7.78,0,3,2,6,6,8,Business Analytics,"Tableau, SQL, Excel",1
+S1322,6.65,2,2,1,4,6,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1323,8.97,0,2,0,7,8,7,Web Development,"Django, HTML, CSS",0
+S1324,6.5,0,1,0,8,8,6,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1325,6.33,1,5,1,7,9,7,Cloud Computing,"AWS, Python, DevOps",0
+S1326,8.23,0,4,1,8,7,8,Cloud Computing,"AWS, Linux, Networking",1
+S1327,7.93,3,1,0,9,7,6,Data Science,"Python, SQL, Power BI",1
+S1328,7.8,0,1,1,8,7,6,Cloud Computing,"AWS, Linux, Networking",0
+S1329,7.8,1,2,1,8,4,9,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1330,7.29,0,4,2,5,6,8,Software Engineering,"C#, .NET, SQL",1
+S1331,6.58,0,4,2,7,6,6,AI & ML,"Python, ML, Statistics",0
+S1332,7.36,2,4,2,10,6,7,Business Analytics,"Tableau, SQL, Excel",1
+S1333,6.76,2,2,1,7,7,5,Cloud Computing,"AWS, Linux, Networking",0
+S1334,8.08,3,1,4,10,6,5,Data Science,"Python, SQL, Power BI",1
+S1335,7.18,0,2,1,6,5,9,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1336,6.64,1,3,2,7,7,7,Cloud Computing,"AWS, Python, DevOps",0
+S1337,7.04,3,3,1,6,6,7,Data Science,"Python, Tableau, Statistics",0
+S1338,7.63,0,2,0,8,3,8,Software Engineering,"C++, Data Structures, Algorithms",0
+S1339,6.85,1,4,3,8,5,10,Web Development,"React, JavaScript, Git",1
+S1340,6.64,0,1,2,8,7,8,Cloud Computing,"AWS, Linux, Networking",0
+S1341,7.49,3,2,1,9,8,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1342,7.5,3,2,2,7,3,5,Data Science,"Python, SQL, Power BI",0
+S1343,6.89,1,2,0,7,6,9,Data Science,"Python, SQL, Pandas",1
+S1344,6.92,0,2,1,4,7,8,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1345,7.49,1,3,4,8,8,8,Data Science,"Python, Tableau, Statistics",1
+S1346,6.14,1,5,1,7,6,6,Web Development,"HTML, CSS, JavaScript",0
+S1347,6.17,0,4,2,7,6,8,Data Science,"Python, SQL, Pandas",1
+S1348,6.73,0,3,0,7,9,6,Business Analytics,"Tableau, SQL, Excel",0
+S1349,7.13,0,5,2,7,8,8,AI & ML,"Python, ML, Statistics",1
+S1350,7.55,0,4,1,7,8,8,Business Analytics,"SQL, Excel, Business Analysis",0
+S1351,8.48,0,3,0,6,6,6,AI & ML,"Python, ML, Statistics",0
+S1352,7.99,1,2,4,7,8,9,Data Science,"Python, SQL, Pandas",0
+S1353,7.17,2,2,1,8,4,7,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1354,7.28,0,2,4,6,8,8,AI & ML,"Python, NumPy, Scikit-learn",0
+S1355,6.5,0,2,4,6,7,5,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1356,7.29,0,5,2,7,7,8,AI & ML,"Python, TensorFlow, Keras",0
+S1357,7.07,2,1,2,7,5,6,Business Analytics,"Power BI, DAX, Excel",1
+S1358,7.56,2,5,1,7,4,8,Data Science,"Python, SQL, Pandas",0
+S1359,6.64,0,3,2,8,7,9,Cloud Computing,"AWS, Python, DevOps",0
+S1360,7.72,0,3,2,5,8,8,Software Engineering,"C#, .NET, SQL",0
+S1361,8.53,2,2,0,5,8,6,Cloud Computing,"AWS, Python, DevOps",0
+S1362,7.21,0,5,2,7,8,8,Cloud Computing,"AWS, Linux, Networking",0
+S1363,7.62,0,3,1,6,7,8,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1364,7.85,1,4,0,8,6,10,Cyber Security,"Linux, Security Tools, Scripting",0
+S1365,6.98,0,3,2,9,8,8,Web Development,"Django, HTML, CSS",0
+S1366,7.48,0,4,4,7,5,6,Business Analytics,"SQL, Excel, Business Analysis",1
+S1367,7.31,2,5,0,5,8,8,Data Science,"Python, SQL, Power BI",1
+S1368,7.38,1,3,3,9,7,7,Web Development,"HTML, CSS, JavaScript",1
+S1369,6.68,1,5,0,7,7,7,Software Engineering,"Java, OOP, Git",1
+S1370,7.32,1,4,2,5,8,6,Web Development,"HTML, CSS, JavaScript",1
+S1371,7.7,0,3,2,5,8,7,Data Science,"Python, SQL, Pandas",1
+S1372,8.46,0,3,1,9,8,7,Business Analytics,"Excel, Power BI, SQL",0
+S1373,8.07,1,4,1,9,6,7,Business Analytics,"Tableau, SQL, Excel",0
+S1374,9.02,1,2,2,3,8,6,Data Science,"R, SQL, Excel",0
+S1375,6.69,0,3,2,5,6,8,Software Engineering,"C++, Data Structures, Algorithms",0
+S1376,8.0,1,1,1,9,8,6,Data Science,"Python, Tableau, Statistics",0
+S1377,7.45,3,2,0,7,5,6,Software Engineering,"C++, Data Structures, Algorithms",0
+S1378,9.05,1,3,2,8,7,8,Software Engineering,"Java, OOP, Git",1
+S1379,6.65,1,2,3,7,6,8,Data Science,"Python, SQL, Power BI",0
+S1380,6.63,3,1,4,8,8,6,AI & ML,"Python, NumPy, Scikit-learn",1
+S1381,6.82,0,5,2,7,8,5,Business Analytics,"Tableau, SQL, Excel",0
+S1382,5.6,3,2,0,6,7,6,Software Engineering,"Java, OOP, Git",1
+S1383,6.88,2,1,1,9,7,7,Data Science,"Python, Tableau, Statistics",0
+S1384,6.69,2,4,4,7,8,9,AI & ML,"Python, NumPy, Scikit-learn",1
+S1385,7.42,0,2,1,8,8,7,Business Analytics,"Tableau, SQL, Excel",0
+S1386,7.57,1,3,3,7,7,6,Software Engineering,"C#, .NET, SQL",1
+S1387,8.8,0,1,1,6,6,7,Business Analytics,"Tableau, SQL, Excel",0
+S1388,8.06,0,2,2,9,8,7,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1389,6.84,1,3,0,8,4,5,Business Analytics,"Power BI, DAX, Excel",0
+S1390,6.58,1,2,2,6,8,5,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1391,7.69,3,4,4,9,6,5,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1392,6.24,0,5,0,5,6,10,Cyber Security,"Python, Networking, Nmap",1
+S1393,8.77,3,3,2,10,8,8,AI & ML,"Python, TensorFlow, Keras",1
+S1394,8.24,3,5,1,7,6,6,Software Engineering,"C#, .NET, SQL",1
+S1395,6.92,1,1,2,5,8,9,Data Science,"Python, Tableau, Statistics",1
+S1396,5.93,1,2,2,10,8,6,Web Development,"Django, HTML, CSS",1
+S1397,8.38,3,2,2,6,7,9,Data Science,"Python, Tableau, Statistics",0
+S1398,7.21,0,2,4,7,7,7,Business Analytics,"Excel, Power BI, SQL",0
+S1399,8.29,1,2,1,8,7,6,Web Development,"Node.js, MongoDB, Express",0
+S1400,6.02,0,3,0,9,7,8,Web Development,"HTML, CSS, JavaScript",1
+S1401,6.82,0,2,0,7,5,7,Business Analytics,"Excel, Power BI, SQL",0
+S1402,7.3,3,2,3,6,6,8,Business Analytics,"Excel, Power BI, SQL",1
+S1403,7.34,1,3,1,7,5,7,Software Engineering,"Java, OOP, Git",0
+S1404,6.94,1,2,3,6,6,7,AI & ML,"Python, ML, Statistics",0
+S1405,7.8,1,3,3,7,4,8,Data Science,"Python, SQL, Pandas",1
+S1406,6.45,2,3,0,9,7,10,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1407,7.19,0,1,2,8,9,9,Cyber Security,"Python, Networking, Nmap",1
+S1408,7.4,0,3,2,7,6,7,Software Engineering,"C#, .NET, SQL",1
+S1409,7.71,2,3,4,8,8,7,Software Engineering,"C++, Data Structures, Algorithms",1
+S1410,7.87,1,3,2,8,8,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1411,6.4,1,5,2,5,5,6,Data Science,"Python, Tableau, Statistics",0
+S1412,6.07,1,1,1,7,5,8,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1413,8.32,1,5,0,10,8,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1414,7.57,2,5,4,9,7,7,Data Science,"Python, SQL, Pandas",0
+S1415,6.7,0,4,2,6,5,8,Web Development,"Django, HTML, CSS",0
+S1416,8.54,1,2,1,6,6,7,Business Analytics,"Power BI, DAX, Excel",1
+S1417,7.39,3,2,1,6,7,7,Software Engineering,"Java, OOP, Git",1
+S1418,8.24,1,3,2,8,6,6,Data Science,"R, SQL, Excel",0
+S1419,7.35,0,3,3,9,3,9,AI & ML,"Python, ML, Statistics",1
+S1420,8.95,0,4,2,8,6,6,Business Analytics,"Excel, Power BI, SQL",0
+S1421,8.7,1,3,2,7,6,6,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1422,7.1,2,2,2,6,7,5,Business Analytics,"Power BI, DAX, Excel",0
+S1423,8.08,0,5,2,7,9,7,Software Engineering,"C#, .NET, SQL",1
+S1424,7.82,0,2,3,6,7,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1425,8.39,0,3,3,4,7,7,Cloud Computing,"AWS, Python, DevOps",0
+S1426,6.53,1,2,0,9,8,6,Cyber Security,"Networking, Linux, Security+",0
+S1427,7.85,1,2,2,5,7,8,Data Science,"Python, SQL, Power BI",0
+S1428,8.15,0,2,2,7,10,5,Cyber Security,"Linux, Security Tools, Scripting",1
+S1429,5.89,0,2,2,8,5,7,Software Engineering,"C++, Data Structures, Algorithms",1
+S1430,6.35,2,4,1,9,5,7,Data Science,"Python, SQL, Power BI",0
+S1431,5.67,0,1,1,7,8,7,Web Development,"Node.js, MongoDB, Express",0
+S1432,7.08,3,3,2,5,9,7,Cyber Security,"Linux, Security Tools, Scripting",0
+S1433,7.87,3,1,0,7,7,8,Cyber Security,"Linux, Security Tools, Scripting",0
+S1434,8.5,1,5,0,6,5,9,Cloud Computing,"AWS, Python, DevOps",0
+S1435,7.36,0,3,3,7,9,7,Data Science,"Python, SQL, Power BI",1
+S1436,8.6,3,3,3,9,6,6,AI & ML,"Python, NumPy, Scikit-learn",1
+S1437,6.2,1,2,1,3,7,8,Cyber Security,"Python, Networking, Nmap",1
+S1438,5.94,3,3,2,6,9,7,Software Engineering,"C#, .NET, SQL",1
+S1439,7.26,3,3,2,6,6,9,Cyber Security,"Linux, Security Tools, Scripting",1
+S1440,7.61,3,4,4,5,6,6,Cloud Computing,"AWS, Python, DevOps",0
+S1441,7.27,0,4,2,8,6,6,Web Development,"React, JavaScript, Git",1
+S1442,5.65,0,4,1,5,8,7,Cloud Computing,"AWS, Python, DevOps",1
+S1443,7.23,1,4,3,5,8,5,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1444,6.26,0,2,2,8,7,7,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1445,7.84,1,1,2,9,9,7,Business Analytics,"Excel, Power BI, SQL",1
+S1446,7.59,1,3,3,7,7,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1447,6.55,1,2,1,5,9,6,Data Science,"Python, Tableau, Statistics",0
+S1448,6.89,2,4,3,6,6,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1449,6.45,3,5,0,9,10,9,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1450,7.25,2,1,2,7,9,7,Data Science,"Python, SQL, Pandas",0
+S1451,8.06,0,5,3,7,7,8,Software Engineering,"C#, .NET, SQL",0
+S1452,6.51,1,3,1,7,9,6,Data Science,"R, SQL, Excel",1
+S1453,7.7,1,5,1,7,9,7,Cloud Computing,"AWS, Linux, Networking",0
+S1454,6.88,0,3,0,9,9,7,Web Development,"React, JavaScript, Git",1
+S1455,6.67,3,3,1,6,3,9,Cloud Computing,"AWS, Linux, Networking",0
+S1456,7.21,0,4,4,6,8,7,Business Analytics,"Excel, Power BI, SQL",0
+S1457,6.47,1,3,3,5,8,7,Data Science,"Python, SQL, Pandas",1
+S1458,6.86,3,2,0,6,7,9,Software Engineering,"Python, OOP, Git",0
+S1459,6.34,2,3,2,5,7,7,Cyber Security,"Networking, Linux, Security+",1
+S1460,8.87,2,3,3,7,7,8,Data Science,"Python, Tableau, Statistics",0
+S1461,7.33,1,4,2,7,9,9,Cloud Computing,"AWS, Linux, Networking",1
+S1462,6.74,2,2,2,5,8,6,Data Science,"Python, SQL, Pandas",0
+S1463,7.47,1,5,1,8,7,8,Data Science,"Python, Tableau, Statistics",1
+S1464,7.21,0,2,0,9,8,9,Data Science,"Python, Tableau, Statistics",0
+S1465,7.12,0,5,2,8,7,8,Software Engineering,"C++, Data Structures, Algorithms",1
+S1466,7.79,0,2,1,3,8,8,AI & ML,"Python, NumPy, Scikit-learn",0
+S1467,7.91,3,3,2,10,9,7,AI & ML,"Python, ML, Statistics",1
+S1468,6.88,0,1,1,8,6,6,Data Science,"Python, SQL, Pandas",0
+S1469,6.84,0,2,3,10,5,6,Software Engineering,"Java, OOP, Git",1
+S1470,7.08,0,1,0,9,7,9,Software Engineering,"C#, .NET, SQL",0
+S1471,5.46,1,3,2,9,7,9,Business Analytics,"Tableau, SQL, Excel",0
+S1472,6.09,0,1,4,7,8,6,Data Science,"Python, SQL, Pandas",1
+S1473,8.39,0,3,2,7,7,8,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1474,8.62,0,2,4,8,8,7,Cloud Computing,"AWS, Linux, Networking",0
+S1475,7.1,0,2,0,6,10,9,Web Development,"Node.js, MongoDB, Express",0
+S1476,7.76,1,4,2,8,8,8,Data Science,"Python, Tableau, Statistics",1
+S1477,7.55,1,4,1,3,8,7,Web Development,"React, JavaScript, Git",0
+S1478,9.76,0,3,2,7,7,6,Cloud Computing,"AWS, Linux, Networking",1
+S1479,8.2,0,2,1,9,5,8,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1480,7.2,1,3,3,7,4,7,Data Science,"Python, SQL, Pandas",0
+S1481,6.54,1,3,2,10,6,7,Web Development,"Node.js, MongoDB, Express",1
+S1482,6.01,3,3,1,7,3,7,Web Development,"React, JavaScript, Git",0
+S1483,7.46,0,1,1,9,8,7,Data Science,"Python, SQL, Pandas",0
+S1484,6.69,0,3,4,6,6,6,Business Analytics,"SQL, Excel, Business Analysis",0
+S1485,6.16,0,4,3,8,5,8,Web Development,"Node.js, MongoDB, Express",1
+S1486,6.78,0,2,0,7,7,7,Business Analytics,"Tableau, SQL, Excel",0
+S1487,6.43,1,4,1,7,6,10,Cyber Security,"Networking, Linux, Security+",1
+S1488,8.65,0,2,2,3,7,6,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1489,8.01,0,3,3,7,8,8,AI & ML,"Python, NumPy, Scikit-learn",1
+S1490,7.29,3,3,4,7,6,7,Business Analytics,"Power BI, DAX, Excel",0
+S1491,8.48,0,1,2,8,6,10,Business Analytics,"SQL, Excel, Business Analysis",1
+S1492,7.36,1,2,0,9,7,8,Business Analytics,"Power BI, DAX, Excel",1
+S1493,6.61,3,2,0,10,5,8,Software Engineering,"C++, Data Structures, Algorithms",0
+S1494,8.52,0,5,4,9,7,7,Web Development,"React, JavaScript, Git",1
+S1495,7.73,0,3,1,6,5,6,Web Development,"HTML, CSS, JavaScript",0
+S1496,6.47,1,3,4,7,8,8,Software Engineering,"Python, OOP, Git",0
+S1497,7.15,0,1,2,8,6,5,Web Development,"HTML, CSS, JavaScript",1
+S1498,6.6,0,3,0,8,5,5,Software Engineering,"Python, OOP, Git",0
+S1499,6.19,3,2,3,9,6,9,Business Analytics,"Tableau, SQL, Excel",0
+S1500,8.04,1,4,2,10,6,5,Data Science,"Python, SQL, Pandas",0
+S1501,8.83,0,2,1,10,8,7,Cyber Security,"Networking, Linux, Security+",1
+S1502,6.18,2,3,2,9,7,6,Business Analytics,"Power BI, DAX, Excel",0
+S1503,7.75,1,3,2,8,5,7,Cyber Security,"Linux, Security Tools, Scripting",0
+S1504,6.78,3,4,2,9,9,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1505,6.91,0,2,4,9,8,8,Business Analytics,"SQL, Excel, Business Analysis",0
+S1506,6.83,1,3,2,7,6,9,AI & ML,"Python, ML, Statistics",0
+S1507,6.61,3,3,4,6,5,6,Web Development,"React, JavaScript, Git",1
+S1508,7.34,0,2,1,6,6,7,AI & ML,"Python, NumPy, Scikit-learn",0
+S1509,6.64,0,4,0,6,6,10,Data Science,"R, SQL, Excel",1
+S1510,7.52,0,1,1,5,7,7,Cyber Security,"Python, Networking, Nmap",0
+S1511,7.26,2,3,0,7,8,6,Business Analytics,"Power BI, DAX, Excel",0
+S1512,7.11,1,2,4,6,8,6,Data Science,"Python, SQL, Pandas",1
+S1513,6.57,1,3,0,6,5,7,Data Science,"R, SQL, Excel",1
+S1514,6.84,0,2,2,8,7,7,Web Development,"Django, HTML, CSS",0
+S1515,7.9,2,1,3,7,7,7,Data Science,"Python, SQL, Pandas",1
+S1516,7.7,0,2,1,8,10,7,Business Analytics,"SQL, Excel, Business Analysis",1
+S1517,6.52,0,5,2,9,7,7,Business Analytics,"Tableau, SQL, Excel",0
+S1518,7.38,0,2,1,8,6,6,Cyber Security,"Python, Networking, Nmap",0
+S1519,7.9,3,2,2,9,7,8,Business Analytics,"Power BI, DAX, Excel",1
+S1520,5.96,1,2,0,7,7,7,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1521,7.73,0,1,2,9,4,8,Cyber Security,"Linux, Security Tools, Scripting",0
+S1522,6.77,0,5,1,8,7,5,Web Development,"HTML, CSS, JavaScript",0
+S1523,7.76,0,4,1,7,6,7,Cyber Security,"Linux, Security Tools, Scripting",0
+S1524,6.69,2,1,2,9,7,5,Software Engineering,"C#, .NET, SQL",0
+S1525,5.86,1,3,2,6,6,7,AI & ML,"Python, NumPy, Scikit-learn",0
+S1526,6.0,3,3,4,10,5,8,Software Engineering,"Java, OOP, Git",1
+S1527,7.34,0,2,2,7,8,9,Software Engineering,"C#, .NET, SQL",0
+S1528,7.51,0,4,4,5,8,8,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1529,6.58,0,5,2,8,7,8,Business Analytics,"Excel, Power BI, SQL",0
+S1530,7.81,3,2,1,6,4,7,Web Development,"HTML, CSS, JavaScript",1
+S1531,5.97,1,2,2,10,7,7,Data Science,"Python, Tableau, Statistics",1
+S1532,7.25,2,1,1,6,4,10,Software Engineering,"C#, .NET, SQL",1
+S1533,6.33,0,3,0,7,6,8,Cyber Security,"Networking, Linux, Security+",0
+S1534,6.78,1,3,4,5,8,6,Data Science,"Python, Tableau, Statistics",0
+S1535,7.34,0,2,2,8,8,5,Cyber Security,"Networking, Linux, Security+",1
+S1536,6.61,2,2,2,6,7,7,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1537,6.99,0,2,1,8,9,9,Data Science,"R, SQL, Excel",0
+S1538,8.11,3,3,1,6,8,7,Data Science,"Python, SQL, Pandas",0
+S1539,6.84,1,5,4,4,4,4,Business Analytics,"Excel, Power BI, SQL",0
+S1540,7.97,2,5,2,7,6,7,Cyber Security,"Python, Networking, Nmap",1
+S1541,6.4,1,4,3,7,7,7,Web Development,"React, JavaScript, Git",0
+S1542,7.72,1,1,0,8,7,4,Business Analytics,"SQL, Excel, Business Analysis",0
+S1543,8.45,0,3,0,9,6,7,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1544,5.32,1,3,1,10,5,6,Cloud Computing,"AWS, Linux, Networking",1
+S1545,6.66,0,1,1,8,10,5,AI & ML,"Python, NumPy, Scikit-learn",0
+S1546,7.76,0,5,2,7,6,9,Web Development,"React, JavaScript, Git",1
+S1547,7.14,0,5,4,5,10,6,Business Analytics,"Tableau, SQL, Excel",0
+S1548,7.6,0,5,1,7,5,6,Cloud Computing,"AWS, Linux, Networking",1
+S1549,6.82,2,2,0,7,8,6,Business Analytics,"Power BI, DAX, Excel",0
+S1550,7.37,0,3,1,7,7,7,Data Science,"R, SQL, Excel",1
+S1551,7.18,3,2,0,8,6,9,Cloud Computing,"AWS, Python, DevOps",0
+S1552,8.23,1,1,1,9,6,6,Cyber Security,"Networking, Linux, Security+",0
+S1553,7.5,1,5,1,6,7,7,AI & ML,"Python, NumPy, Scikit-learn",1
+S1554,7.57,0,4,2,6,6,7,Cloud Computing,"AWS, Python, DevOps",0
+S1555,6.97,1,5,1,7,6,6,Cyber Security,"Python, Networking, Nmap",1
+S1556,6.91,0,5,1,6,3,7,Business Analytics,"Tableau, SQL, Excel",0
+S1557,6.95,1,3,2,5,8,8,Web Development,"Node.js, MongoDB, Express",0
+S1558,7.62,1,2,2,6,9,6,Cloud Computing,"AWS, Linux, Networking",1
+S1559,6.96,1,1,2,5,7,7,Cyber Security,"Python, Networking, Nmap",1
+S1560,7.53,0,3,4,9,10,7,Business Analytics,"Power BI, DAX, Excel",0
+S1561,8.96,1,3,4,10,8,7,Business Analytics,"Power BI, DAX, Excel",0
+S1562,8.0,2,4,2,5,8,8,Business Analytics,"Power BI, DAX, Excel",1
+S1563,7.04,0,3,1,8,9,8,Web Development,"React, JavaScript, Git",1
+S1564,8.26,0,4,1,8,3,10,Data Science,"Python, SQL, Power BI",0
+S1565,6.97,2,3,0,5,7,4,Web Development,"HTML, CSS, JavaScript",0
+S1566,5.67,1,3,0,7,5,7,Web Development,"HTML, CSS, JavaScript",0
+S1567,6.49,1,1,4,10,5,5,AI & ML,"Python, ML, Statistics",0
+S1568,5.8,0,5,2,8,5,7,Business Analytics,"Power BI, DAX, Excel",1
+S1569,7.02,0,1,3,7,6,8,Cyber Security,"Python, Networking, Nmap",0
+S1570,7.31,2,2,3,6,8,9,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1571,8.64,2,3,2,4,7,9,AI & ML,"Python, NumPy, Scikit-learn",1
+S1572,7.56,0,3,0,8,7,9,Business Analytics,"Excel, Power BI, SQL",1
+S1573,7.12,3,5,4,10,8,7,Software Engineering,"C#, .NET, SQL",1
+S1574,7.96,1,2,4,6,8,9,Web Development,"HTML, CSS, JavaScript",0
+S1575,5.53,0,2,0,4,7,9,Software Engineering,"C++, Data Structures, Algorithms",0
+S1576,7.49,2,1,3,6,4,7,Business Analytics,"Power BI, DAX, Excel",1
+S1577,7.92,0,4,1,8,6,9,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1578,6.12,0,2,1,6,7,7,Cyber Security,"Networking, Linux, Security+",0
+S1579,8.22,0,2,0,6,8,9,AI & ML,"Python, NumPy, Scikit-learn",0
+S1580,7.57,3,5,1,7,5,7,Cyber Security,"Python, Networking, Nmap",1
+S1581,6.97,2,2,2,7,7,6,Cyber Security,"Linux, Security Tools, Scripting",0
+S1582,7.81,1,2,2,5,5,6,Business Analytics,"Excel, Power BI, SQL",0
+S1583,9.12,2,2,2,7,8,7,Data Science,"R, SQL, Excel",0
+S1584,7.45,1,4,0,6,7,7,Business Analytics,"Tableau, SQL, Excel",1
+S1585,7.5,0,4,1,6,5,6,Web Development,"Django, HTML, CSS",0
+S1586,6.93,1,4,3,5,5,7,AI & ML,"Python, NumPy, Scikit-learn",1
+S1587,6.62,1,3,0,8,7,7,Cyber Security,"Networking, Linux, Security+",0
+S1588,7.96,1,3,1,6,9,6,Business Analytics,"SQL, Excel, Business Analysis",0
+S1589,6.62,1,4,3,4,5,9,Business Analytics,"Tableau, SQL, Excel",1
+S1590,7.36,3,2,1,7,8,9,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1591,6.92,3,2,1,8,6,9,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1592,7.68,0,4,4,6,8,7,Cyber Security,"Python, Networking, Nmap",0
+S1593,7.57,3,5,2,6,8,7,Cloud Computing,"AWS, Linux, Networking",1
+S1594,8.13,0,4,1,6,7,6,Software Engineering,"Python, OOP, Git",0
+S1595,6.89,2,2,2,6,4,8,Web Development,"React, JavaScript, Git",0
+S1596,7.08,2,3,3,9,8,7,Web Development,"Node.js, MongoDB, Express",0
+S1597,6.52,0,1,2,7,8,10,Cloud Computing,"AWS, Linux, Networking",1
+S1598,6.94,3,1,3,8,7,9,Data Science,"Python, Tableau, Statistics",0
+S1599,7.6,1,4,3,6,7,8,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1600,7.91,0,2,3,6,6,7,Data Science,"Python, SQL, Pandas",1
+S1601,6.56,1,4,3,8,8,9,Data Science,"Python, SQL, Pandas",0
+S1602,8.0,1,5,3,6,8,6,Cloud Computing,"AWS, Python, DevOps",1
+S1603,8.38,0,4,1,9,5,9,Web Development,"Django, HTML, CSS",0
+S1604,7.63,2,1,3,6,9,6,Software Engineering,"Java, OOP, Git",1
+S1605,8.8,1,2,1,7,7,6,Web Development,"HTML, CSS, JavaScript",1
+S1606,6.68,3,4,3,10,7,5,Business Analytics,"Power BI, DAX, Excel",1
+S1607,6.3,1,2,2,6,7,8,Web Development,"HTML, CSS, JavaScript",1
+S1608,5.88,0,2,4,7,7,8,Web Development,"HTML, CSS, JavaScript",0
+S1609,8.5,2,2,3,8,9,6,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1610,7.82,1,2,1,7,8,6,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1611,7.26,1,1,3,7,8,9,Business Analytics,"Power BI, DAX, Excel",1
+S1612,7.52,1,3,3,7,7,7,Business Analytics,"Power BI, DAX, Excel",1
+S1613,6.4,0,3,2,5,8,6,Cloud Computing,"AWS, Python, DevOps",0
+S1614,9.26,0,3,2,8,6,10,Web Development,"Node.js, MongoDB, Express",0
+S1615,7.4,2,5,2,6,8,6,Software Engineering,"Java, OOP, Git",1
+S1616,7.39,1,4,1,8,7,9,Data Science,"Python, SQL, Pandas",1
+S1617,7.88,1,5,2,9,4,6,AI & ML,"Python, NumPy, Scikit-learn",1
+S1618,7.68,2,1,0,4,5,7,Data Science,"Python, SQL, Power BI",0
+S1619,7.48,2,2,0,9,6,8,Business Analytics,"Excel, Power BI, SQL",0
+S1620,6.67,0,3,1,6,7,7,Business Analytics,"Tableau, SQL, Excel",1
+S1621,7.68,3,5,2,7,6,8,Data Science,"Python, SQL, Pandas",1
+S1622,8.81,0,1,1,6,6,6,AI & ML,"Python, ML, Statistics",0
+S1623,8.38,1,3,1,7,8,5,Web Development,"Django, HTML, CSS",1
+S1624,8.57,1,2,4,7,6,9,Software Engineering,"Java, OOP, Git",1
+S1625,6.89,2,5,2,9,9,7,Software Engineering,"C++, Data Structures, Algorithms",1
+S1626,6.51,1,3,2,6,8,8,Data Science,"Python, SQL, Power BI",1
+S1627,7.2,0,4,3,9,7,8,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1628,7.34,1,4,0,8,8,8,Business Analytics,"Excel, Power BI, SQL",1
+S1629,8.18,2,3,2,7,8,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1630,5.95,1,3,1,7,6,9,Web Development,"HTML, CSS, JavaScript",0
+S1631,8.52,0,3,2,7,8,8,Data Science,"Python, SQL, Pandas",1
+S1632,7.17,3,1,1,7,8,7,Software Engineering,"C#, .NET, SQL",0
+S1633,6.96,0,4,1,7,5,7,Business Analytics,"Excel, Power BI, SQL",0
+S1634,6.49,1,1,3,7,7,9,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1635,5.98,0,1,0,6,7,6,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1636,7.96,0,3,2,7,8,8,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1637,7.36,1,1,1,6,6,7,AI & ML,"Python, ML, Statistics",1
+S1638,6.27,0,4,2,7,6,5,Data Science,"Python, SQL, Power BI",1
+S1639,6.26,0,2,0,7,7,5,Cyber Security,"Linux, Security Tools, Scripting",1
+S1640,7.03,0,3,1,8,8,6,Software Engineering,"C#, .NET, SQL",0
+S1641,8.64,0,2,1,8,5,6,Data Science,"Python, SQL, Power BI",0
+S1642,7.09,0,1,4,8,5,10,Cyber Security,"Python, Networking, Nmap",0
+S1643,6.1,0,2,4,7,6,8,Business Analytics,"Power BI, DAX, Excel",0
+S1644,7.1,0,4,3,8,6,8,AI & ML,"Python, NumPy, Scikit-learn",1
+S1645,7.08,1,4,3,7,4,6,Cloud Computing,"AWS, Linux, Networking",1
+S1646,5.14,2,1,1,8,9,7,Web Development,"HTML, CSS, JavaScript",0
+S1647,7.26,3,3,1,8,7,10,Business Analytics,"Excel, Power BI, SQL",1
+S1648,7.12,0,2,3,5,6,6,Cloud Computing,"AWS, Linux, Networking",1
+S1649,7.86,1,3,2,8,9,8,Software Engineering,"Python, OOP, Git",1
+S1650,8.78,0,3,2,9,8,9,Software Engineering,"C#, .NET, SQL",1
+S1651,8.2,3,2,1,6,6,8,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1652,7.08,2,1,2,6,7,10,Business Analytics,"Power BI, DAX, Excel",1
+S1653,6.41,0,3,1,6,7,7,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1654,9.36,2,4,2,5,9,8,Cyber Security,"Linux, Security Tools, Scripting",0
+S1655,7.35,0,4,1,7,7,7,Data Science,"R, SQL, Excel",1
+S1656,7.31,3,1,0,7,5,8,AI & ML,"Python, ML, Statistics",1
+S1657,7.28,2,5,1,7,4,6,Cyber Security,"Linux, Security Tools, Scripting",1
+S1658,7.46,1,5,1,8,9,8,Web Development,"Node.js, MongoDB, Express",0
+S1659,7.18,1,5,2,6,6,8,Cloud Computing,"AWS, Linux, Networking",1
+S1660,6.84,1,3,1,7,8,7,Web Development,"React, JavaScript, Git",0
+S1661,6.86,0,4,1,8,7,9,Web Development,"Node.js, MongoDB, Express",1
+S1662,7.27,1,1,4,6,6,7,Cyber Security,"Python, Networking, Nmap",0
+S1663,6.87,3,4,2,8,6,9,AI & ML,"Python, ML, Statistics",1
+S1664,6.73,0,3,1,7,9,9,Business Analytics,"Power BI, DAX, Excel",1
+S1665,7.39,0,2,3,6,5,8,Software Engineering,"Java, OOP, Git",0
+S1666,7.1,2,2,2,7,6,6,Data Science,"Python, Tableau, Statistics",0
+S1667,8.5,0,4,4,7,8,8,Software Engineering,"C++, Data Structures, Algorithms",0
+S1668,5.18,1,2,3,8,5,10,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1669,8.17,0,3,0,7,9,5,Software Engineering,"Java, OOP, Git",0
+S1670,8.3,2,5,1,5,8,7,Cloud Computing,"AWS, Linux, Networking",1
+S1671,5.64,0,3,4,7,7,9,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1672,7.03,2,3,0,7,6,7,Cyber Security,"Linux, Security Tools, Scripting",0
+S1673,7.0,2,3,1,5,5,8,Web Development,"HTML, CSS, JavaScript",0
+S1674,6.17,2,3,2,8,8,9,AI & ML,"Python, ML, Statistics",1
+S1675,6.68,0,2,1,8,10,8,AI & ML,"Python, ML, Statistics",0
+S1676,6.41,3,3,3,6,7,8,Software Engineering,"Python, OOP, Git",1
+S1677,8.7,1,1,2,6,4,7,Cyber Security,"Linux, Security Tools, Scripting",0
+S1678,8.05,2,3,3,7,7,8,Software Engineering,"Python, OOP, Git",1
+S1679,8.32,0,3,2,6,8,10,Software Engineering,"Python, OOP, Git",1
+S1680,7.88,3,1,0,8,6,7,AI & ML,"Python, NumPy, Scikit-learn",0
+S1681,6.4,1,3,2,7,6,7,Software Engineering,"Java, OOP, Git",0
+S1682,6.88,0,1,1,5,6,9,Web Development,"Node.js, MongoDB, Express",0
+S1683,7.69,0,3,2,6,6,6,Software Engineering,"Python, OOP, Git",1
+S1684,6.32,0,2,2,9,7,6,Web Development,"HTML, CSS, JavaScript",1
+S1685,7.87,0,1,2,9,6,6,AI & ML,"Python, TensorFlow, Keras",0
+S1686,7.11,0,2,2,8,5,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1687,7.0,0,1,1,7,7,7,Cloud Computing,"AWS, Python, DevOps",0
+S1688,7.87,2,3,4,6,7,8,Web Development,"HTML, CSS, JavaScript",0
+S1689,7.66,1,5,1,8,6,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1690,7.01,0,5,2,7,7,8,Cyber Security,"Networking, Linux, Security+",1
+S1691,8.23,0,3,1,5,5,8,Web Development,"HTML, CSS, JavaScript",1
+S1692,6.44,0,4,2,9,7,6,AI & ML,"Python, NumPy, Scikit-learn",1
+S1693,7.79,0,3,1,9,6,8,Data Science,"Python, SQL, Pandas",1
+S1694,7.77,0,4,4,8,7,8,Cyber Security,"Python, Networking, Nmap",1
+S1695,7.05,1,5,1,5,7,5,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1696,7.56,2,5,3,6,8,8,AI & ML,"Python, ML, Statistics",0
+S1697,6.3,0,1,2,4,7,7,AI & ML,"Python, TensorFlow, Keras",0
+S1698,8.04,1,2,1,9,8,9,Software Engineering,"C#, .NET, SQL",1
+S1699,7.15,3,2,0,6,6,7,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1700,6.88,2,3,2,10,6,5,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1701,8.14,0,3,1,10,7,7,Web Development,"Django, HTML, CSS",0
+S1702,6.74,2,4,2,6,8,6,Data Science,"R, SQL, Excel",1
+S1703,6.17,2,3,2,6,8,8,Business Analytics,"Power BI, DAX, Excel",1
+S1704,6.05,2,2,2,8,7,6,Software Engineering,"C++, Data Structures, Algorithms",0
+S1705,7.78,1,4,1,4,5,7,Business Analytics,"SQL, Excel, Business Analysis",1
+S1706,6.28,1,3,2,6,8,9,Web Development,"React, JavaScript, Git",1
+S1707,8.7,0,1,0,6,6,9,Data Science,"R, SQL, Excel",1
+S1708,5.63,0,3,3,10,6,8,Data Science,"R, SQL, Excel",1
+S1709,8.66,0,2,4,7,5,7,Data Science,"R, SQL, Excel",1
+S1710,7.47,2,3,1,7,7,8,Cloud Computing,"AWS, Linux, Networking",1
+S1711,7.22,0,5,1,6,8,8,Web Development,"HTML, CSS, JavaScript",1
+S1712,6.86,1,5,1,8,5,6,Software Engineering,"Java, OOP, Git",0
+S1713,7.62,1,3,0,6,9,8,Software Engineering,"C++, Data Structures, Algorithms",1
+S1714,7.27,0,3,0,7,8,6,Data Science,"R, SQL, Excel",0
+S1715,8.18,1,3,2,6,5,8,Web Development,"Django, HTML, CSS",1
+S1716,7.39,0,4,4,5,6,6,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1717,7.42,1,3,0,6,5,10,Data Science,"Python, SQL, Power BI",0
+S1718,7.01,0,3,1,6,8,8,AI & ML,"Python, TensorFlow, Keras",0
+S1719,7.25,3,2,2,7,5,5,Business Analytics,"SQL, Excel, Business Analysis",0
+S1720,7.55,1,4,2,7,5,7,Software Engineering,"Python, OOP, Git",0
+S1721,5.93,1,3,2,7,6,7,Business Analytics,"Excel, Power BI, SQL",0
+S1722,6.22,1,2,3,6,8,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1723,7.89,1,2,1,9,7,7,Data Science,"R, SQL, Excel",0
+S1724,7.44,1,2,1,8,7,6,AI & ML,"Python, TensorFlow, Keras",0
+S1725,7.15,1,5,0,7,7,8,Software Engineering,"C++, Data Structures, Algorithms",1
+S1726,7.31,3,1,4,7,5,8,Business Analytics,"Tableau, SQL, Excel",1
+S1727,7.58,2,1,1,6,6,8,Cloud Computing,"AWS, Linux, Networking",0
+S1728,6.87,1,5,1,3,7,7,Web Development,"HTML, CSS, JavaScript",0
+S1729,6.68,0,4,3,7,6,8,Software Engineering,"Java, OOP, Git",1
+S1730,7.46,1,4,0,7,9,8,Business Analytics,"Power BI, DAX, Excel",0
+S1731,6.52,1,4,1,5,5,8,Web Development,"React, JavaScript, Git",0
+S1732,7.63,3,1,2,8,6,5,Business Analytics,"SQL, Excel, Business Analysis",1
+S1733,5.94,2,2,2,7,7,6,Web Development,"Node.js, MongoDB, Express",1
+S1734,8.12,1,1,2,8,6,7,Cloud Computing,"AWS, Linux, Networking",0
+S1735,7.68,0,3,2,7,3,5,Cloud Computing,"AWS, Python, DevOps",0
+S1736,7.5,2,3,2,9,10,7,Data Science,"Python, Tableau, Statistics",1
+S1737,8.09,0,4,1,7,5,9,Data Science,"Python, SQL, Power BI",0
+S1738,8.63,1,2,1,9,8,9,Software Engineering,"C#, .NET, SQL",1
+S1739,8.11,3,2,2,9,5,8,Cloud Computing,"AWS, Linux, Networking",1
+S1740,5.83,0,2,0,5,6,8,AI & ML,"Python, TensorFlow, Keras",0
+S1741,6.28,3,3,1,6,5,10,Business Analytics,"SQL, Excel, Business Analysis",0
+S1742,6.8,0,2,0,8,6,8,Business Analytics,"Tableau, SQL, Excel",0
+S1743,7.32,1,1,1,6,6,8,Business Analytics,"SQL, Excel, Business Analysis",0
+S1744,7.71,0,1,1,7,7,5,Software Engineering,"Python, OOP, Git",0
+S1745,6.72,0,3,2,9,6,9,Business Analytics,"Power BI, DAX, Excel",1
+S1746,7.45,0,3,2,7,5,8,Cyber Security,"Networking, Linux, Security+",0
+S1747,6.7,0,1,2,6,6,7,Web Development,"Node.js, MongoDB, Express",1
+S1748,6.81,0,2,4,6,9,7,Business Analytics,"Power BI, DAX, Excel",1
+S1749,6.17,2,4,1,10,9,6,Web Development,"Node.js, MongoDB, Express",0
+S1750,6.56,0,2,1,7,7,9,Data Science,"Python, Tableau, Statistics",0
+S1751,6.22,0,3,1,5,8,7,Business Analytics,"SQL, Excel, Business Analysis",0
+S1752,6.52,1,3,0,4,10,7,AI & ML,"Python, TensorFlow, Keras",0
+S1753,8.14,3,1,0,6,8,6,Cloud Computing,"AWS, Python, DevOps",0
+S1754,6.54,3,3,2,7,8,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1755,9.41,0,3,1,8,5,7,Data Science,"Python, Tableau, Statistics",0
+S1756,7.69,3,4,0,8,5,6,Cyber Security,"Networking, Linux, Security+",1
+S1757,7.45,0,1,0,7,7,5,Software Engineering,"C++, Data Structures, Algorithms",0
+S1758,6.61,0,4,3,6,6,8,Software Engineering,"C++, Data Structures, Algorithms",1
+S1759,7.86,0,1,1,8,5,7,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1760,6.84,1,4,2,4,6,6,Data Science,"R, SQL, Excel",0
+S1761,7.4,0,2,0,10,5,7,Data Science,"Python, SQL, Power BI",1
+S1762,9.35,1,3,2,8,6,8,Cyber Security,"Networking, Linux, Security+",0
+S1763,7.22,2,3,2,8,7,7,Business Analytics,"Excel, Power BI, SQL",1
+S1764,8.22,2,1,2,5,9,7,Software Engineering,"C++, Data Structures, Algorithms",0
+S1765,6.74,0,2,1,9,8,7,Business Analytics,"Power BI, DAX, Excel",0
+S1766,7.27,3,5,1,6,8,6,Data Science,"R, SQL, Excel",0
+S1767,8.72,1,3,2,6,5,8,Business Analytics,"SQL, Excel, Business Analysis",0
+S1768,6.8,0,3,1,7,7,5,Cloud Computing,"AWS, Python, DevOps",1
+S1769,8.75,1,1,2,7,7,8,AI & ML,"Python, TensorFlow, Keras",0
+S1770,7.87,1,4,1,5,7,8,Software Engineering,"C#, .NET, SQL",0
+S1771,6.85,3,2,1,6,6,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1772,7.81,0,2,1,6,9,8,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1773,8.08,1,4,2,6,7,7,Web Development,"HTML, CSS, JavaScript",1
+S1774,7.8,3,4,2,6,7,8,Cloud Computing,"AWS, Python, DevOps",1
+S1775,6.04,1,1,4,5,4,8,Cyber Security,"Python, Networking, Nmap",0
+S1776,6.72,1,1,4,6,7,6,AI & ML,"Python, ML, Statistics",0
+S1777,7.1,1,3,4,9,8,8,Data Science,"Python, Tableau, Statistics",0
+S1778,7.24,1,1,4,8,8,9,Web Development,"Node.js, MongoDB, Express",1
+S1779,7.8,1,1,1,5,4,8,Cyber Security,"Linux, Security Tools, Scripting",1
+S1780,7.44,1,1,2,8,6,7,Data Science,"Python, SQL, Power BI",1
+S1781,6.23,2,3,2,4,9,10,Cloud Computing,"AWS, Linux, Networking",1
+S1782,7.6,3,2,3,10,7,7,Web Development,"React, JavaScript, Git",0
+S1783,7.79,0,2,2,9,7,8,Software Engineering,"Java, OOP, Git",1
+S1784,7.75,3,5,4,6,9,8,Data Science,"Python, Tableau, Statistics",0
+S1785,8.16,1,5,1,8,7,8,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1786,7.97,1,1,2,5,8,7,Business Analytics,"Excel, Power BI, SQL",0
+S1787,7.67,3,5,4,7,7,7,Cyber Security,"Python, Networking, Nmap",1
+S1788,7.24,2,3,1,7,8,8,Web Development,"React, JavaScript, Git",1
+S1789,5.97,1,2,2,6,7,7,Data Science,"Python, SQL, Pandas",0
+S1790,7.64,0,4,2,6,6,7,Software Engineering,"C#, .NET, SQL",0
+S1791,7.47,3,2,2,6,6,7,Business Analytics,"Excel, Power BI, SQL",1
+S1792,7.52,0,2,0,5,6,6,Cyber Security,"Linux, Security Tools, Scripting",1
+S1793,6.28,1,3,1,6,5,6,Cyber Security,"Networking, Linux, Security+",0
+S1794,6.44,2,5,4,5,9,6,Data Science,"Python, Tableau, Statistics",1
+S1795,8.14,2,4,3,8,7,7,Software Engineering,"Java, OOP, Git",1
+S1796,7.27,3,3,2,6,8,8,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1797,7.85,1,1,3,5,9,9,Business Analytics,"SQL, Excel, Business Analysis",0
+S1798,7.32,1,3,0,8,7,7,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1799,7.32,2,2,1,8,5,8,Web Development,"HTML, CSS, JavaScript",0
+S1800,8.05,1,3,2,8,7,8,Data Science,"Python, SQL, Power BI",1
+S1801,6.89,2,3,1,8,6,4,Business Analytics,"Excel, Power BI, SQL",0
+S1802,7.38,3,3,4,10,4,6,Web Development,"React, JavaScript, Git",0
+S1803,6.93,0,3,1,7,6,8,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1804,6.95,2,3,2,5,7,8,Business Analytics,"Excel, Power BI, SQL",0
+S1805,7.05,0,3,0,7,6,8,Cyber Security,"Networking, Linux, Security+",0
+S1806,7.48,1,1,1,6,6,7,Web Development,"React, JavaScript, Git",1
+S1807,6.92,2,3,4,6,5,5,Software Engineering,"C++, Data Structures, Algorithms",0
+S1808,8.3,2,2,1,7,7,6,AI & ML,"Python, TensorFlow, Keras",1
+S1809,6.58,3,5,4,8,9,6,Cloud Computing,"AWS, Python, DevOps",0
+S1810,7.15,1,3,2,6,9,8,Cloud Computing,"AWS, Python, DevOps",0
+S1811,6.95,0,2,2,9,8,7,Software Engineering,"Python, OOP, Git",0
+S1812,8.46,3,3,1,6,8,9,Business Analytics,"SQL, Excel, Business Analysis",1
+S1813,7.46,0,1,2,7,7,9,Business Analytics,"SQL, Excel, Business Analysis",1
+S1814,8.13,3,2,1,8,4,9,Business Analytics,"Excel, Power BI, SQL",1
+S1815,6.11,1,4,2,6,6,6,Web Development,"Node.js, MongoDB, Express",0
+S1816,7.51,0,5,1,4,5,8,Data Science,"R, SQL, Excel",0
+S1817,8.01,1,4,1,8,7,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1818,7.37,1,3,0,6,9,8,AI & ML,"Python, NumPy, Scikit-learn",0
+S1819,8.15,0,5,0,8,10,6,Data Science,"Python, SQL, Pandas",1
+S1820,6.89,0,5,4,5,7,9,Data Science,"R, SQL, Excel",1
+S1821,8.43,1,1,2,5,4,6,Software Engineering,"Java, OOP, Git",0
+S1822,9.14,1,5,2,8,7,5,Web Development,"React, JavaScript, Git",1
+S1823,7.01,1,3,4,8,7,10,Cloud Computing,"AWS, Python, DevOps",1
+S1824,6.94,0,2,2,6,8,8,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1825,8.46,1,2,2,8,7,6,Software Engineering,"Python, OOP, Git",1
+S1826,8.56,1,2,4,6,7,7,Web Development,"Node.js, MongoDB, Express",0
+S1827,6.88,1,3,3,7,6,6,Software Engineering,"Java, OOP, Git",1
+S1828,6.96,0,4,2,7,6,7,Cloud Computing,"AWS, Linux, Networking",1
+S1829,7.07,0,1,3,6,8,8,Data Science,"R, SQL, Excel",0
+S1830,6.22,0,5,0,6,4,8,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1831,6.57,1,3,0,7,6,8,Business Analytics,"Tableau, SQL, Excel",0
+S1832,6.5,0,2,2,7,8,7,Web Development,"React, JavaScript, Git",1
+S1833,6.69,3,3,0,6,9,9,AI & ML,"Python, NumPy, Scikit-learn",1
+S1834,7.27,1,2,2,5,6,5,AI & ML,"Python, TensorFlow, Keras",0
+S1835,7.49,1,5,3,7,8,6,Data Science,"Python, SQL, Pandas",1
+S1836,8.54,3,3,3,6,9,6,Software Engineering,"Java, OOP, Git",1
+S1837,6.5,1,3,2,5,6,9,Software Engineering,"C#, .NET, SQL",1
+S1838,8.09,0,1,0,7,6,6,Cloud Computing,"AWS, Linux, Networking",0
+S1839,7.13,2,1,1,9,7,6,Data Science,"Python, SQL, Power BI",0
+S1840,7.26,1,3,4,6,7,8,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1841,7.84,0,2,4,9,8,6,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1842,6.4,1,2,3,10,6,7,AI & ML,"Python, TensorFlow, Keras",0
+S1843,7.61,1,5,2,6,9,10,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1844,7.43,0,1,2,7,6,8,Business Analytics,"Excel, Power BI, SQL",0
+S1845,7.69,0,5,2,10,5,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1846,7.53,0,2,1,7,8,7,AI & ML,"Python, TensorFlow, Keras",0
+S1847,9.26,1,5,1,7,9,8,Business Analytics,"Power BI, DAX, Excel",1
+S1848,6.79,1,3,3,4,7,8,Software Engineering,"Java, OOP, Git",1
+S1849,6.88,1,1,4,6,7,7,Web Development,"HTML, CSS, JavaScript",1
+S1850,6.8,2,2,2,8,10,7,Cyber Security,"Python, Networking, Nmap",0
+S1851,6.86,0,2,2,10,9,5,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1852,6.79,1,2,2,7,7,5,Business Analytics,"Tableau, SQL, Excel",1
+S1853,8.25,0,2,3,5,6,7,Web Development,"Django, HTML, CSS",1
+S1854,8.44,1,3,1,5,8,6,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1855,6.84,0,2,4,7,8,8,Web Development,"HTML, CSS, JavaScript",0
+S1856,6.63,0,4,2,9,7,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1857,7.68,0,2,4,8,6,6,Web Development,"Django, HTML, CSS",1
+S1858,6.86,0,2,0,8,7,7,Business Analytics,"Power BI, DAX, Excel",1
+S1859,7.81,0,4,2,9,7,7,Web Development,"Django, HTML, CSS",0
+S1860,7.46,0,1,2,6,6,10,Web Development,"Node.js, MongoDB, Express",1
+S1861,6.09,0,1,4,7,6,8,Web Development,"React, JavaScript, Git",0
+S1862,8.54,1,5,1,6,7,5,Data Science,"R, SQL, Excel",1
+S1863,8.74,1,3,1,7,6,10,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1864,6.81,0,2,3,5,7,6,AI & ML,"Python, TensorFlow, Keras",1
+S1865,6.99,0,3,3,6,4,6,Cyber Security,"Python, Networking, Nmap",1
+S1866,7.53,0,4,2,7,6,10,AI & ML,"Python, NumPy, Scikit-learn",0
+S1867,7.57,0,2,0,6,8,8,Data Science,"Python, SQL, Pandas",1
+S1868,7.83,1,3,1,7,6,8,Data Science,"Python, SQL, Pandas",0
+S1869,8.91,1,2,1,8,8,8,Business Analytics,"Excel, Power BI, SQL",0
+S1870,7.16,1,3,3,9,6,7,Data Science,"R, SQL, Excel",0
+S1871,6.66,0,4,0,9,8,6,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1872,6.2,3,2,3,8,6,7,Data Science,"Python, SQL, Pandas",0
+S1873,6.72,0,4,1,5,6,9,Web Development,"Django, HTML, CSS",0
+S1874,7.27,0,2,4,6,7,7,AI & ML,"Python, NumPy, Scikit-learn",1
+S1875,8.74,2,1,3,7,5,9,Software Engineering,"C#, .NET, SQL",1
+S1876,6.89,0,1,2,6,8,7,Cyber Security,"Python, Networking, Nmap",0
+S1877,7.48,3,4,4,8,9,6,Data Science,"R, SQL, Excel",0
+S1878,7.29,0,3,3,5,6,5,AI & ML,"Python, ML, Statistics",0
+S1879,8.25,1,2,2,10,8,8,Business Analytics,"SQL, Excel, Business Analysis",0
+S1880,9.32,3,2,3,9,8,9,Data Science,"Python, SQL, Pandas",1
+S1881,6.88,1,1,2,8,7,6,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1882,6.91,0,5,0,7,5,8,Data Science,"Python, Tableau, Statistics",0
+S1883,8.14,1,3,1,9,9,5,Data Science,"Python, SQL, Power BI",1
+S1884,7.85,1,5,4,8,6,6,Data Science,"Python, SQL, Power BI",1
+S1885,8.78,0,2,4,9,6,8,Business Analytics,"Power BI, DAX, Excel",1
+S1886,7.77,3,3,1,7,9,5,Data Science,"Python, SQL, Pandas",1
+S1887,7.01,1,3,1,10,8,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1888,7.77,1,4,1,9,7,6,AI & ML,"Python, ML, Statistics",1
+S1889,8.19,0,1,1,8,5,8,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1890,7.96,3,5,4,9,8,7,Data Science,"Python, SQL, Pandas",1
+S1891,7.71,0,5,3,6,10,8,Data Science,"Python, Tableau, Statistics",1
+S1892,8.15,0,1,0,5,8,7,Data Science,"R, SQL, Excel",1
+S1893,8.24,1,5,0,7,7,5,Data Science,"Python, Tableau, Statistics",0
+S1894,8.41,0,1,1,7,8,5,Web Development,"HTML, CSS, JavaScript",1
+S1895,7.82,0,4,1,7,6,5,Web Development,"HTML, CSS, JavaScript",1
+S1896,7.17,0,3,3,9,6,8,Software Engineering,"C++, Data Structures, Algorithms",0
+S1897,7.42,1,3,0,7,6,10,Data Science,"Python, SQL, Pandas",1
+S1898,8.27,1,4,0,7,6,8,Software Engineering,"Python, OOP, Git",0
+S1899,6.65,1,2,2,7,6,9,Cyber Security,"Linux, Security Tools, Scripting",1
+S1900,7.59,0,2,2,8,6,9,Software Engineering,"Java, OOP, Git",0
+S1901,6.99,3,3,4,8,6,7,AI & ML,"Python, NumPy, Scikit-learn",1
+S1902,7.32,2,2,0,8,6,9,Web Development,"Node.js, MongoDB, Express",1
+S1903,8.32,1,3,1,6,7,7,Web Development,"Django, HTML, CSS",1
+S1904,7.45,0,5,2,9,7,7,Data Science,"Python, Tableau, Statistics",1
+S1905,7.34,1,1,2,10,7,7,Data Science,"Python, SQL, Power BI",1
+S1906,6.21,3,3,3,8,9,7,Cyber Security,"Python, Networking, Nmap",1
+S1907,7.9,0,4,0,6,7,8,Cloud Computing,"AWS, Python, DevOps",1
+S1908,7.82,3,2,0,6,10,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1909,9.03,0,4,4,6,7,8,AI & ML,"Python, ML, Statistics",1
+S1910,7.05,1,3,0,6,6,8,Data Science,"Python, SQL, Power BI",0
+S1911,7.48,0,3,1,7,9,8,Data Science,"Python, SQL, Pandas",1
+S1912,7.5,0,2,2,8,7,10,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1913,8.56,0,2,0,7,3,9,Cyber Security,"Networking, Linux, Security+",0
+S1914,7.22,1,2,0,7,7,9,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1915,7.52,1,3,4,7,6,7,Web Development,"Django, HTML, CSS",0
+S1916,7.79,2,3,1,7,9,8,Software Engineering,"C++, Data Structures, Algorithms",0
+S1917,7.45,2,5,4,8,6,8,Software Engineering,"Java, OOP, Git",1
+S1918,6.94,0,1,4,4,6,7,Data Science,"Python, SQL, Pandas",0
+S1919,7.46,2,5,1,7,9,7,Web Development,"Django, HTML, CSS",1
+S1920,8.16,3,5,3,7,7,4,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",1
+S1921,6.48,1,2,0,8,7,8,Data Science,"Python, SQL, Pandas",0
+S1922,7.41,0,2,4,5,6,9,Web Development,"Node.js, MongoDB, Express",0
+S1923,6.74,3,2,4,5,7,6,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1924,8.26,0,1,1,8,7,8,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1925,6.08,0,4,4,4,6,6,Web Development,"HTML, CSS, JavaScript",0
+S1926,6.85,0,3,2,9,6,7,Business Analytics,"Power BI, DAX, Excel",1
+S1927,7.6,3,3,3,7,6,9,Data Science,"Python, SQL, Pandas",1
+S1928,8.55,0,1,0,9,5,6,Software Engineering,"Python, OOP, Git",0
+S1929,7.25,0,5,0,5,8,6,Business Analytics,"Power BI, DAX, Excel",0
+S1930,6.86,0,2,1,6,8,10,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1931,8.8,1,3,1,3,8,7,Cloud Computing,"AWS, Python, DevOps",0
+S1932,6.14,2,3,0,6,7,9,AI & ML,"Python, TensorFlow, Keras",1
+S1933,5.54,1,5,2,7,6,5,Cloud Computing,"AWS, Linux, Networking",0
+S1934,7.65,2,3,0,4,6,5,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1935,6.9,0,3,2,6,8,6,Web Development,"Node.js, MongoDB, Express",0
+S1936,6.48,0,1,3,4,4,7,Data Science,"R, SQL, Excel",1
+S1937,7.87,0,1,3,7,6,5,Data Science,"Python, SQL, Power BI",0
+S1938,7.5,0,5,2,9,6,8,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1939,6.85,3,3,2,7,9,8,Cyber Security,"Networking, Linux, Security+",1
+S1940,6.28,2,2,2,9,6,6,Data Science,"R, SQL, Excel",0
+S1941,8.0,3,3,1,8,5,6,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1942,7.82,0,2,0,9,7,6,Data Science,"Python, Tableau, Statistics",0
+S1943,7.22,0,3,4,6,6,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1944,8.78,1,2,0,6,6,3,AI & ML,"Python, ML, Statistics",0
+S1945,6.44,1,3,2,8,6,7,Business Analytics,"Excel, Power BI, SQL",1
+S1946,6.08,1,2,4,5,6,7,Cloud Computing,"AWS, Python, DevOps",0
+S1947,6.75,0,2,2,8,8,7,Software Engineering,"Java, OOP, Git",0
+S1948,7.26,0,5,4,7,7,6,Software Engineering,"C#, .NET, SQL",1
+S1949,7.49,2,5,0,9,7,8,Cloud Computing,"AWS, Linux, Networking",1
+S1950,7.11,1,2,0,8,5,10,Web Development,"Django, HTML, CSS",1
+S1951,7.58,1,4,1,9,7,6,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1952,6.3,3,2,1,6,7,9,Web Development,"Django, HTML, CSS",1
+S1953,8.46,1,1,4,9,7,8,Business Analytics,"Tableau, SQL, Excel",1
+S1954,7.23,0,1,2,9,7,7,Software Engineering,"Python, OOP, Git",0
+S1955,8.19,0,4,2,7,6,7,Cyber Security,"Linux, Security Tools, Scripting",1
+S1956,7.57,0,3,1,6,3,7,Cloud Computing,"Azure, Docker, Kubernetes",0
+S1957,7.67,3,2,0,6,9,9,Business Analytics,"Tableau, SQL, Excel",1
+S1958,7.76,0,3,1,9,5,6,Data Science,"Python, SQL, Pandas",0
+S1959,7.66,0,3,1,10,4,7,Software Engineering,"Python, OOP, Git",0
+S1960,7.81,3,4,2,6,7,9,AI & ML,"Python, ML, Statistics",1
+S1961,8.36,0,1,1,5,4,8,Software Engineering,"Java, OOP, Git",0
+S1962,7.46,0,5,3,8,6,6,AI & ML,"Python, ML, Statistics",0
+S1963,7.87,0,3,1,6,8,7,AI & ML,"Python, NumPy, Scikit-learn",0
+S1964,7.23,2,1,0,9,9,8,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1965,8.45,1,3,3,8,7,8,AI & ML,"Python, TensorFlow, Keras",1
+S1966,6.76,0,2,1,7,6,8,Web Development,"Django, HTML, CSS",0
+S1967,8.74,0,3,2,8,7,8,Business Analytics,"Excel, Power BI, SQL",1
+S1968,7.27,0,4,4,8,4,8,Cyber Security,"Python, Networking, Nmap",0
+S1969,6.16,2,2,2,7,6,8,Software Engineering,"C++, Data Structures, Algorithms",1
+S1970,7.4,1,2,1,4,6,9,Cyber Security,"Networking, Linux, Security+",0
+S1971,6.76,2,2,2,7,7,7,Business Analytics,"Tableau, SQL, Excel",1
+S1972,7.97,1,3,1,9,10,7,Data Science,"R, SQL, Excel",1
+S1973,6.78,1,3,3,5,4,6,Business Analytics,"Tableau, SQL, Excel",0
+S1974,6.94,1,2,0,6,6,6,Software Engineering,"Java, OOP, Git",1
+S1975,5.79,0,2,0,8,4,8,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1976,6.94,2,4,0,7,6,6,Cyber Security,"Ethical Hacking, Burp Suite, Wireshark",0
+S1977,5.36,0,4,1,8,6,7,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1978,6.03,1,2,2,6,5,9,Cloud Computing,"AWS, Python, DevOps",0
+S1979,7.91,0,2,0,9,8,9,Business Analytics,"Power BI, DAX, Excel",0
+S1980,7.93,0,2,2,7,7,10,Business Analytics,"Excel, Power BI, SQL",0
+S1981,7.64,2,2,1,8,8,9,Data Science,"Python, Tableau, Statistics",1
+S1982,6.53,3,2,3,7,6,10,AI & ML,"Deep Learning, CNN, PyTorch",1
+S1983,7.26,3,4,2,7,7,8,Software Engineering,"Python, OOP, Git",0
+S1984,7.3,0,2,3,8,9,6,Cloud Computing,"Azure, Docker, Kubernetes",1
+S1985,6.37,1,3,1,7,7,6,Software Engineering,"C#, .NET, SQL",0
+S1986,8.5,0,5,1,5,8,9,Data Science,"Python, SQL, Power BI",1
+S1987,8.0,3,3,2,9,6,7,Cloud Computing,"GCP, Terraform, CI/CD",1
+S1988,7.12,0,4,1,8,8,7,Cloud Computing,"AWS, Linux, Networking",1
+S1989,7.32,1,2,1,4,6,6,AI & ML,"Deep Learning, CNN, PyTorch",0
+S1990,7.47,1,3,1,6,4,7,Software Engineering,"Java, OOP, Git",0
+S1991,5.67,2,2,0,9,7,8,Software Engineering,"C++, Data Structures, Algorithms",0
+S1992,7.1,1,3,2,4,6,6,Software Engineering,"C++, Data Structures, Algorithms",0
+S1993,6.75,2,3,4,8,5,8,AI & ML,"Python, NumPy, Scikit-learn",0
+S1994,6.5,2,2,2,7,7,9,Cloud Computing,"GCP, Terraform, CI/CD",0
+S1995,7.08,2,3,2,9,6,4,Data Science,"R, SQL, Excel",0
+S1996,8.74,3,3,4,7,10,5,Software Engineering,"C#, .NET, SQL",1
+S1997,7.81,3,2,1,6,5,8,Cyber Security,"Linux, Security Tools, Scripting",1
+S1998,6.84,1,5,3,7,5,9,AI & ML,"Python, ML, Statistics",1
+S1999,7.76,0,4,1,7,8,7,Web Development,"Node.js, MongoDB, Express",0

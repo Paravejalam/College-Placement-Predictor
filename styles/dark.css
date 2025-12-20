@@ -1,0 +1,20 @@
+body {
+    background: radial-gradient(circle at top, #020617, #020617);
+    color: white;
+}
+
+.main-header {
+    text-align: center;
+    background: linear-gradient(90deg, #1e3a8a, #312e81);
+    color: white;
+    padding: 1.6rem;
+    border-radius: 14px;
+    margin-bottom: 1.5rem;
+}
+
+.result-card {
+    background: #020617;
+    padding: 1.2rem;
+    border-radius: 12px;
+    border: 1px solid #1e293b;
+}

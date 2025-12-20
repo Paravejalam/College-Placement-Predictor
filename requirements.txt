@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+scikit-learn
+plotly
+fpdf
+joblib
+reportlab
+PyPDF2
+matplotlib
+shap
