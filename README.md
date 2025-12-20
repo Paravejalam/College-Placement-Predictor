@@ -1,8 +1,46 @@
+## 🚀 Live Application
+👉 https://college-placement-predictor-5ijenf8fsnyq67zuubgpra.streamlit.app/
+
 # 🎓 College Placement Predictor & Resume Insights Dashboard
 
 An end-to-end **Machine Learning + Data Analytics project** that predicts college placement probability, analyzes resume strength, and provides actionable insights using **Streamlit**, **ML**, **SHAP explainability**, and ****Power BI Dashboards (Exploratory / Planned)**
 This project also demonstrates strong **Data Analytics skills using SQL and Excel**, including placement trend analysis and reporting.
 ---
+
+## 🧠 Tech Stack
+
+### Programming & Data
+- Python, Pandas, NumPy
+- SQL (SQLite)
+
+### Data Analytics & Reporting
+- Excel (Analytical Reports & Charts)
+- Power BI (Interactive Dashboards)
+
+### Machine Learning
+- Scikit-learn
+- Logistic Regression
+- Feature Engineering & Probability Prediction
+
+### Explainable AI & NLP
+- SHAP (Model Explainability)
+- Resume Parsing (NLP)
+- ATS Resume Matching
+
+### Web Application
+- Streamlit
+- Custom CSS (Dark UI)
+- What-If Simulator
+
+### Database & Pipeline
+- SQLite
+- Python Data Pipelines
+
+### Deployment
+- Git & GitHub
+- Streamlit Cloud
+
+
 
 ## 🚀 Project Highlights
 
