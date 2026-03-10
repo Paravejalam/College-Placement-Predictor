@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://NAME:$HF_TOKEN@huggingface.co/spaces/NAME/College-Placement-Predictor main
+        run: git push --force https://Alam7324:$HF_TOKEN@huggingface.co/spaces/Alam7324/College-Placement-Predictor main
