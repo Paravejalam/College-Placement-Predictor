@@ -16,4 +16,16 @@ jobs:
       - name: Push to HuggingFace Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://Alam7324:$HF_TOKEN@huggingface.co/spaces/Alam7324/College-Placement-Predictor HEAD:main
+        run: |
+          # Copy files to a temporary folder, excluding binary sizes and git history
+          mkdir hf_space
+          rsync -av --exclude='.git/' --exclude='PowerBI/' --exclude='analytics/' --exclude='venv/' --exclude='.venv/' --exclude='fresh_venv/' --exclude='__pycache__/' ./ hf_space/
+          
+          # Initialize fresh git repository and push
+          cd hf_space
+          git init
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add .
+          git commit -m "Deploy from GitHub Actions"
+          git push --force https://Alam7324:$HF_TOKEN@huggingface.co/spaces/Alam7324/College-Placement-Predictor master:main
