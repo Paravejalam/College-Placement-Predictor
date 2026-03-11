@@ -60,6 +60,7 @@ def reset_results():
     st.session_state.base_prediction_prob = None
     st.session_state.model_input = None
     st.session_state.left_input_snapshot = None
+    st.session_state.balloons_shown = False
     
 # -------------------------
 # RESET ON LEFT INPUT CHANGE (ONLY LEFT PANEL)
@@ -69,6 +70,7 @@ def reset_on_left_input_change():
         st.session_state.prediction_done = False
         st.session_state.prediction_prob = None
         st.session_state.base_prediction_prob = None    
+        st.session_state.balloons_shown = False
     
 # -------------------------------------------------
 # PAGE CONFIG
@@ -445,6 +447,7 @@ with right_col:
 
     # ---------- PREDICT BUTTON ----------
     if st.button("🚀 Predict Placement", use_container_width=True):
+        st.session_state.balloons_shown = False
         with st.spinner("🔄 Analyzing profile & calculating probability..."):
             st.session_state.in_what_if_mode = False
             st.session_state.last_inputs_dict = {
@@ -545,7 +548,9 @@ with right_col:
                 """,
                 unsafe_allow_html=True
             )
-            st.balloons()
+            if not st.session_state.get("balloons_shown", False):
+                st.balloons()
+                st.session_state.balloons_shown = True
 
         elif prob >= 60:
             st.success(f"🟢 Moderate Placement Potential ({prob:.2f}%) — Profile improvement recommended")
@@ -571,8 +576,9 @@ with right_col:
                 ]
             },
         ))
+        fig.update_layout(height=350, margin=dict(l=20, r=20, t=50, b=20))
 
-        st.plotly_chart(fig, width="stretch")
+        st.plotly_chart(fig, use_container_width=True)
 
 
         # -------- SHAP --------
