@@ -1,3 +1,12 @@
+---
+title: College Placement Predictor
+emoji: 🎓
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 ## 🚀 Live Application
 👉 https://college-placement-predictor-5ijenf8fsnyq67zuubgpra.streamlit.app/
 
